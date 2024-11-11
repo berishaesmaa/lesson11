@@ -1,0 +1,45 @@
+p{
+    color: blueviolet;
+    font-size: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    /* margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    */
+  /* margin: 100px 150px 100px 80px;*/
+  /*margin: 25px 50px 75px ;*/
+}
+
+/*div{
+    border: solid;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    height: 200px;
+    width: 50px;
+    background-color: aqua;
+    
+}
+    */
+
+    div{
+        width: 300px;
+        border: 15px solid green ;
+        padding: 50px;
+        margin: 20px;
+    }
+
+    h1{
+       /* color: rgb(red,255,0,0); */
+       color: red;
+    }
+
+    body{
+        background-color: blue;
+        background: url(images.webp);
+        background-size: cover;
+    }
